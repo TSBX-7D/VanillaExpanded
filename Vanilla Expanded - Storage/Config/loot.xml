@@ -1,0 +1,35 @@
+<Configs>
+
+<append xpath="/lootcontainers">
+ <!-- PALLETS -->
+    <lootcontainer id="150" size="6,5" sound_open="UseActions/open_chest" sound_close="UseActions/close_chest">
+    </lootcontainer>
+    <lootcontainer id="151" size="6,8" sound_open="UseActions/campfire_close" sound_close="UseActions/campfire_close">
+    </lootcontainer>
+    <lootcontainer id="152" size="6,8" sound_open="UseActions/close_backpack" sound_close="UseActions/close_backpack">
+    </lootcontainer>   
+    <lootcontainer id="153" size="6,8" sound_open="UseActions/open_cardboard" sound_close="UseActions/close_cardboard">
+    </lootcontainer>
+    <lootcontainer id="154" size="6,8" sound_open="UseActions/open_fridge" sound_close="UseActions/close_fridge">
+    </lootcontainer>   
+
+	<!-- BARRELS -->
+	 <lootcontainer id="155" size="6,8" sound_open="UseActions/open_trashcan" sound_close="UseActions/close_trashcan">
+    </lootcontainer>
+  
+	<!-- MEDICAL SUPPLY PILES -->
+	 <lootcontainer id="156" count="0" size="6,8"  sound_open="UseActions/open_garbage" sound_close="silencefiller" >
+    </lootcontainer>
+	
+	
+	<!-- FOOD PILES -->
+
+
+
+
+
+
+
+</append>
+
+</Configs>
