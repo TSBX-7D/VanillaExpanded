@@ -53,7 +53,7 @@ Block and localization entry for cntPlayerVendingMachine
 Block and localization entry for cntPlayerFileCabinetShortClosed
 Block and localization entry for cntPlayerFileCabinetTallClosed
 Custom container loot lists for new containers 
- 
+
 Changed:
 XUi loot window to fit custom container names
 Custom container sizes to 6x8
