@@ -85,7 +85,7 @@
 			<property name="CustomIcon" value="cntBarrelPlasticSingle00"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="155"/>
+			<property name="LootList" value="160"/>
 		</block>
 
 		<block name="cntPlayerBarrelPlasticQuadA">
@@ -93,7 +93,7 @@
 			<property name="CustomIcon" value="cntBarrelPlasticQuadA"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="155"/>
+			<property name="LootList" value="160"/>
 		</block>
 		<block name="cntPlayerBarrelGenericQuadA">
 			<property name="Extends" value="cntBarrelGenericQuadA" param1="Explosion,DescriptionKey"/> 
@@ -183,14 +183,14 @@
 			<property name="CustomIcon" value="cntMedicineCabinetClosed"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="158"/>
 		</block>
 		<block name="cntPlayerPillCaseClosed">
 			<property name="Extends" value="cntPillCaseClosed" /> 
 			<property name="CustomIcon" value="cntPillCaseClosed"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="158"/>
 		</block>
 
 		<!-- *** FOOD/DRINK STORAGE *** -->
@@ -199,7 +199,7 @@
 			<property name="CustomIcon" value="cntWaterCoolerFull"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="250"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="160"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -208,7 +208,7 @@
 			<property name="CustomIcon" value="cntVendingMachine2Broken"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="157"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 
 		</block>
@@ -276,7 +276,7 @@
 			<property name="CustomIcon" value="cntMunitionsBox"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="158"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 		</block>
 
@@ -286,7 +286,7 @@
 			<property name="CustomIcon" value="scrapMetalPile"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="162"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 		</block>
 		<!-- *** PAPER/BOOK STORAGE *** -->
@@ -295,7 +295,7 @@
 			<property name="CustomIcon" value="cntFileCabinetShortClosed"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="161"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 		</block>
 		<block name="cntPlayerFileCabinetTallClosed">
@@ -303,7 +303,7 @@
 			<property name="CustomIcon" value="cntFileCabinetTallClosed"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="161"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 		</block>
 		<block name="cntPlayerBookPile01">
@@ -364,7 +364,7 @@
 			<property name="CustomIcon" value="cntWeaponsBagSmall"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="152"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -373,7 +373,7 @@
 			<property name="CustomIcon" value="cntWeaponsBagLarge"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="152"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -382,7 +382,7 @@
 			<property name="CustomIcon" value="cntHardenedChestSecure"/>
 			<property name="Class" value="SecureLoot"/>
 			<property name="MaxDamage" value="2500"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="158"/>
 			<drop event="Harvest" name="resourceForgedIron" prob=".75" count="3" tag="allHarvest" />
 
 		</block>
@@ -447,7 +447,7 @@
 			<property name="CustomIcon" value="cntGarageStorage"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="153"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -456,7 +456,7 @@
 			<property name="CustomIcon" value="cntBackpack03"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="152"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -465,7 +465,7 @@
 			<property name="CustomIcon" value="cntDuffle01"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="152"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
@@ -474,7 +474,7 @@
 			<property name="CustomIcon" value="cntTrashPile09"/>
 			<property name="Class" value="Loot"/>
 			<property name="MaxDamage" value="400"/>
-			<property name="LootList" value="156"/>
+			<property name="LootList" value="153"/>
 			<drop event="Harvest" name="resourceNail" prob=".75" count="10" tag="allHarvest" />
 			<drop event="Harvest" name="resourceWood" prob=".75" count="12" tag="allHarvest" />
 		</block>
