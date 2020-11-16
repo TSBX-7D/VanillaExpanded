@@ -1,3 +1,28 @@
+1.0.3
+Fixed:
+* Incorrect max damage value for cntPlayerWaterCoolerFull
+* Incorrect max damage value for cntPlayerMedicLootPileSmall
+* Incorrect max damage value for cntPlayerMedicLootPileMedium
+* Incorrect max damage value for cntPlayerFoodPileSmall
+* Incorrect max damage value for cntPlayerFoodPileMedium
+* Incorrect max damage value for cntPlayerFoodPileLarge
+
+Added:
+* Block, icon, and localization for cntPlayerBarrelWoodVert
+* Block, icon, and localization for cntPlayerBarrelWoodHor
+* Block, icon, and localization for cntPlayerBarrelWoodSet
+* Block, icon, and localization for cntPlayerCooler
+* Block, icon, and localization for cntPlayerBookcaseFull
+
+1.0.2
+Fixed:
+* Furniture Variant using wrong Luggage blocks 
+
+1.0.1
+Changed:
+* Updated custom loot list sounds 
+
+1.0.0
 Added:
 * Block, Icon and localization entry for cntStorageGenericHalf
 * Block, Icon and localization entry for cntStorageGenericHalfInsecure
