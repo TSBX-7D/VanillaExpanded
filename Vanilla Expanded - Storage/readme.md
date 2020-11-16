@@ -1,5 +1,5 @@
 1.0.3
-Fixed:
+* Fixed:
 * Incorrect max damage value for cntPlayerWaterCoolerFull
 * Incorrect max damage value for cntPlayerMedicLootPileSmall
 * Incorrect max damage value for cntPlayerMedicLootPileMedium
@@ -7,7 +7,7 @@ Fixed:
 * Incorrect max damage value for cntPlayerFoodPileMedium
 * Incorrect max damage value for cntPlayerFoodPileLarge
 
-Added:
+* Added:
 * Block, icon, and localization for cntPlayerBarrelWoodVert
 * Block, icon, and localization for cntPlayerBarrelWoodHor
 * Block, icon, and localization for cntPlayerBarrelWoodSet
