@@ -39,6 +39,9 @@
 	<!-- SCRAP METAL PILE -->
 	<lootcontainer id="162" count="0" size="6,8"  sound_open="UseActions/open_shopping_cart" sound_close="UseActions/close_shopping_cart">
     </lootcontainer>
+	
+	<lootcontainer id="163" count="0" size="6,8" sound_open="UseActions/open_toilet" sound_close="UseActions/close_toilet">
+    </lootcontainer>
 
  
 </append>

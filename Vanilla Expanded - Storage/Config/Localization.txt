@@ -53,6 +53,11 @@ cntPlayerCardboardBox,blocks,Container,,,Cardboard Box
 cntPlayerBackpack03,blocks,Container,,,Backpack
 cntPlayerDuffle01,blocks,Container,,,Duffle Bag
 cntPlayerTrashPile09,blocks,Container,,,Small Cardboard Box
+cntPlayerBarrelWoodVert,blocks,Container,,,Upright Wooden Barrel
+cntPlayerBarrelWoodHor,blocks,Container,,,Wooden Barrel
+cntPlayerBarrelWoodSet,blocks,Container,,,Wooden Barrels
+cntPlayerCooler,blocks,Container,,,Chest Cooler
+cntPlayerBookcaseFull,blocks,Container,,,Bookcase
 
 
 
