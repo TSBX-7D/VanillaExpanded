@@ -16,14 +16,17 @@ Added:
 * Block, icon, and localization for cntPlayerBookcaseFull
 
 1.0.2
+
 Fixed:
 * Furniture Variant using wrong Luggage blocks 
 
 1.0.1
+
 Changed:
 * Updated custom loot list sounds 
 
 1.0.0
+
 Added:
 * Block, Icon and localization entry for cntStorageGenericHalf
 * Block, Icon and localization entry for cntStorageGenericHalfInsecure
