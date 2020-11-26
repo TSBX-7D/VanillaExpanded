@@ -1,4 +1,5 @@
 1.0.4
+
 Added:
 * Block, icon, and localization for cntPlayerGarmentBag
 * Block, icon, and localization for cntPlayerClosetRod
