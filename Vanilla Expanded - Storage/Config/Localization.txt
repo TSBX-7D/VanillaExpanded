@@ -59,6 +59,7 @@ cntPlayerBarrelWoodSet,blocks,Container,,,Wooden Barrels
 cntPlayerCooler,blocks,Container,,,Chest Cooler
 cntPlayerBookcaseFull,blocks,Container,,,Bookcase
 cntPlayerGarmentBag,blocks,Container,,,Garment Bag
+cntPlayerClosetRod,blocks,Container,,,Closet Rod
 cntPlayerToolBoxClosed,blocks,Container,,,Tool Box
 cntPlayerRollingToolBoxClosed,blocks,Container,,,Tool Chest
 
