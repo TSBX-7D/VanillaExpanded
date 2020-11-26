@@ -1,3 +1,11 @@
+1.0.4
+Added:
+* Block, icon, and localization for cntPlayerGarmentBag
+* Block, icon, and localization for cntPlayerClosetRod
+* Block, icon, and localization for cntPlayerToolBoxClosed
+* Block, icon, and localization for cntPlayerRollingToolBoxClosed
+
+
 1.0.3
 
 Fixed:
